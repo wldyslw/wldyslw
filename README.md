@@ -1,23 +1,27 @@
-# Hi stranger! 👋 My name is Uladzislau Maltsau
+# Hi stranger! I’m Uladzislau Maltsau 👋
 
-- 📍 I live in Warsaw, Poland 🇵🇱
-- 👨‍💻 I specialize in **Front-end Delelopment**
-- ⚛️ I have the most experience writing application with the help of **React**...
-- ✨ ...but also have experience with **WebGL** and **Three.js** specifically
-- 👐 I believe in open-source supremacy and have [a small project](https://github.com/wldyslw/react-bottom-sheet) myself!
-- 🗣️ You can refer to me in **English**, **Polish**, **Belarusian** and **Russian**...
-- 📫 ...and you can do this via [e-mail](mailto:wldyslw@outlook.com), [LinkedIn](https://linkedin.com/in/wldslw) and [Telegram](https://t.me/wldyslw)
+- 📍 Warsaw, Poland
+- 🧠 Full-stack software engineer with 6+ years in the industry
+- ⚛️ React + NestJS enthusiast — building full-featured apps from front to back
+- ☁️ Cloud-native developer — GCP, Kubernetes, Kafka, CI/CD pipelines
+- 🖼️ WebGL/Three.js tinkerer, especially into complex UI & visual interfaces
+- 📚 Gave tech talks on WebAssembly & rich text editing
+- 🌐 Native in Belarusian & Russian, fluent in English and Polish
 
-## I worked with...
-- **JavaScript** and **TypeScript**
-- **React** and it's ecosystem (**Next.js**, **Redux**, **React-Router**, **Dnd-kit**, etc.)
-- 3D graphics using **WebGL**, **Three.js**, **React Three Fiber**
-- **GraphQL** as a networking tool and state manager (!)
-- **HTML5** and **CSS3** with a11y in mind
-- Various styling approaches (**css-in-js**, **Sass**, **Stylus**, **CSS-modules**, **Tailwind CSS**)
-- Various unit test suites (**Jest**, **React Testing Library**) and **Cypress** for automated tests
-- **Micro-frontends** (with single-spa)
-- **Webpack**, **Vite**
-- **CI/CD** (GitLab, GitHub, BitBucket, Jenkins)
-- **Git**
-- Linux, Bash
+## 🛠️ My Toolbox
+
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React, NestJS, Next.js
+- **Infra & Cloud:** Kubernetes, GitLab CI/CD, Jenkins, GCP (BigQuery, GKE)
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+- **Other:** Kafka, WebAssembly, Three.js
+
+## 🧩 Featured Project
+
+- **React Bottom Sheet** — minimal, dependency-free component for mobile UX  
+  (TypeScript, <5 KB gzip, built with accessibility and performance in mind)
+
+## 📫 Let’s Connect
+
+- 📧 [wldyslw@outlook.com](mailto:wldyslw@outlook.com)
+- 💼 [linkedin.com/in/wldyslw](https://www.linkedin.com/in/wldyslw)
