@@ -3,7 +3,7 @@
 - 📍 Warsaw, Poland
 - 🧠 Full-stack software engineer with 6+ years in the industry
 - ⚛️ React + NestJS enthusiast — building full-featured apps from front to back
-- ☁️ Cloud-native developer — GCP, Kubernetes, Kafka, CI/CD pipelines
+- ☁️ Cloud-native developer — GCP, Kubernetes, CI/CD pipelines
 - 🖼️ WebGL/Three.js tinkerer, especially into complex UI & visual interfaces
 - 📚 Gave tech talks on WebAssembly & rich text editing
 - 🌐 Native in Belarusian & Russian, fluent in English and Polish
@@ -11,10 +11,10 @@
 ## 🛠️ My Toolbox
 
 - **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, NestJS, Next.js
+- **Frameworks:** React, Next.js, NestJS
 - **Infra & Cloud:** Kubernetes, GitLab CI/CD, Jenkins, GCP (BigQuery, GKE)
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB
-- **Other:** Kafka, WebAssembly, Three.js
+- **Other:** WebAssembly, Three.js
 
 ## 🧩 Featured Project
 
