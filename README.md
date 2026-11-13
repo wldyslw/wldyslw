@@ -1,7 +1,7 @@
 # Hi stranger! I’m Uladzislau Maltsau 👋
 
 - 📍 Warsaw, Poland
-- 🧠 Full-stack software engineer with 7+ years in the industry
+- 🧠 Full-stack software engineer with 8+ years in the industry
 - ⚛️ React + NestJS enthusiast — building full-featured apps from front to back
 - ☁️ Cloud-native developer — GCP, Kubernetes, CI/CD pipelines
 - 🖼️ WebGL/Three.js tinkerer, especially into complex UI & visual interfaces
